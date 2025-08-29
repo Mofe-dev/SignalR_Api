@@ -78,3 +78,4 @@ C:\Users\alexs\OneDrive\Documentos\Projects\SignalR_Api\SignalR_Api\obj\Debug\ne
 C:\Users\alexs\OneDrive\Documentos\Projects\SignalR_Api\SignalR_Api\obj\Debug\net8.0\SignalR_Api.pdb
 C:\Users\alexs\OneDrive\Documentos\Projects\SignalR_Api\SignalR_Api\obj\Debug\net8.0\SignalR_Api.genruntimeconfig.cache
 C:\Users\alexs\OneDrive\Documentos\Projects\SignalR_Api\SignalR_Api\obj\Debug\net8.0\ref\SignalR_Api.dll
+C:\Users\alexs\OneDrive\Documentos\Projects\SignalR_Api\SignalR_Api\obj\Debug\net8.0\SignalR_Api.sourcelink.json
