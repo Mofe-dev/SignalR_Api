@@ -1,6 +1,6 @@
 # .gitignore for .NET projects
 # Build results
-bin/
+*bin/
 obj/
 
 # User-specific files
